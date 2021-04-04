@@ -1,0 +1,17 @@
+.lead__image {
+  margin: 64px auto 0 auto;
+  width: 75%;
+}
+
+
+@media (max-width: 1024px) and (min-width: 769px) {
+  .lead__image {
+    width: 92%;
+  }
+}
+
+@media (max-width: 768px) {
+  .lead__image {
+    width: 100%;
+  }
+}

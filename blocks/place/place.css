@@ -1,0 +1,23 @@
+.place {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 calc(25% / 2);
+  margin-bottom: 80px;
+}
+
+.place:last-of-type {
+  margin-bottom: 0;
+}
+
+@media (max-width: 1024px) {
+  .place {
+    margin: 0 4% 80px 4%;
+  }
+}
+
+@media (max-width: 650px) {
+  .place {
+    margin: 0 4% 50px 4%;
+  }
+}

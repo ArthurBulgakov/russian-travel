@@ -1,0 +1,12 @@
+.places {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 90px auto;
+}
+
+@media (max-width: 650px) {
+  .places{
+    margin: 65px auto;
+  }
+}

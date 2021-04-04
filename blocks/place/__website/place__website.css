@@ -1,0 +1,9 @@
+.place__website {
+  width: 49%;
+}
+
+@media (max-width: 425px) {
+  .place__website {
+    width: 100%;
+  }
+}

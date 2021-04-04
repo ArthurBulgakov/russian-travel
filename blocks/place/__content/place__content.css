@@ -1,0 +1,12 @@
+.place__content {
+  width: 75%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+@media (max-width: 1024px) {
+  .place__content {
+    width: 92%;
+  }
+}

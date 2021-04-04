@@ -1,0 +1,13 @@
+.intro__list {
+  width: 690px;
+  height: 90px;
+  margin-bottom: 90px;
+  padding: 0;
+  margin-left: calc(25% / 2);
+}
+
+@media (max-width: 768px) {
+  .intro__list {
+    margin-left: 4%;
+  }
+}

@@ -1,0 +1,21 @@
+.header__lang-link {
+  font-size: 24px;
+  color: #FFFFFF;
+  line-height: 1.17;
+  justify-self: flex-end;
+  text-align: right;
+}
+
+.header__lang-link:first-of-type {
+  margin-right: 18px;
+}
+.header__lang-link:last-of-type {
+  text-decoration: none;
+}
+
+@media (max-width: 320px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 1.11;
+  }
+}
