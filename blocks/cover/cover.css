@@ -1,0 +1,21 @@
+.cover {
+  width: 92%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  margin: 90px auto;
+}
+
+@media (max-width: 1024px) {
+  .cover {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .cover {
+    margin: 65px auto;
+  }
+}

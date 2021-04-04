@@ -1,0 +1,19 @@
+.intro__text {
+  width: 690px;
+  height: 208px;
+  font-size: 16px;
+  line-height: 1.63;
+  margin-top: 40px;
+  margin-bottom: 33px;
+  margin-left: calc(25% / 2);
+}
+
+@media (max-width: 768px) {
+  .intro__text {
+    width: 92%;
+    height: 100%;
+    font-size: 16px;
+    line-height: 1.63;
+    margin-left: 4%;
+  }
+}
