@@ -8,7 +8,7 @@
   justify-content: space-between;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 768px) {
   .header__logo {
     height: 42px;
   }

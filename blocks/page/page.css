@@ -23,21 +23,11 @@
   margin: 0 auto;
   padding-top: 28px;
   color: #FFFFFF;
+  overflow: hidden;
 }
 
 @media all and (min-width: 1280px) {
   .page {
     width: 1280px;
   }
-}
-
-@media all and (max-width: 1024px) {
-}
-
-@media all and (max-width: 768px) {
-}
-
-@media all and (max-width: 320px) {
-
-
 }
