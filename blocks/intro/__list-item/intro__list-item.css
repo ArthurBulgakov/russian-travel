@@ -1,11 +1,11 @@
 .intro__list-item {
-  font-weight: bold;
+  font-weight: 900;
   font-size: 12px;
   line-height: 1.5;
   list-style: none;
 }
 
 .intro__list-item span {
-  font-weight: normal;
+  font-weight: 400;
 }
 

@@ -1,12 +1,5 @@
 .place__content {
-  width: 75%;
+  width: 100%;
   display: flex;
   flex-wrap: wrap;
-}
-
-
-@media (max-width: 1024px) {
-  .place__content {
-    width: 92%;
-  }
 }
