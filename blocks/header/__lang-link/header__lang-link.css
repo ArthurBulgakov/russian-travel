@@ -4,6 +4,7 @@
   line-height: 1.17;
   justify-self: flex-end;
   text-align: right;
+  font-weight: 400;
 }
 
 .header__lang-link:first-of-type {
