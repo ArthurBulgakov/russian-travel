@@ -4,9 +4,11 @@
   height: 47%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .place__image {
-    width: 100%;
     margin-bottom: 32px;
+    margin-left: -4%;
+    margin-right: -4%;
+    width: calc(100% + 8%);
   }
 }

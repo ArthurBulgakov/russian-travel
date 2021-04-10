@@ -8,12 +8,17 @@
   margin-left: calc(25% / 2);
 }
 
+@media (max-width: 1024px) {
+  .intro__text {
+    margin-left: 4%;
+  }
+}
+
+
 @media (max-width: 768px) {
   .intro__text {
     width: 92%;
     height: 100%;
-    font-size: 16px;
-    line-height: 1.63;
-    margin-left: 4%;
   }
 }
+
