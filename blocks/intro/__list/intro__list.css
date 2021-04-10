@@ -5,8 +5,15 @@
   margin-left: calc(25% / 2);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .intro__list {
     margin-left: 4%;
+  }
+}
+
+@media (max-width: 768px) {
+  .intro__list {
+    margin-bottom: 60px;
+    margin-top: 0;
   }
 }

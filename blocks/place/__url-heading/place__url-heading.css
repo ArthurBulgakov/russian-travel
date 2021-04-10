@@ -6,6 +6,7 @@
   margin: 0;
   margin-bottom: 12px;
   width: 100%;
+  text-transform: uppercase;
 }
 
 @media (max-width: 768px) {

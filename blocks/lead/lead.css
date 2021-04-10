@@ -3,3 +3,9 @@
   flex-direction: column;
   margin: 60px auto 0 auto;
 }
+
+@media (max-width: 767px) {
+  .lead {
+    margin-top: 48px;
+  }
+}

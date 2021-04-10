@@ -6,12 +6,17 @@
   margin: 0 calc(25% / 2);
 }
 
+
+@media (max-width: 1024px) {
+  .intro__title {
+    margin-left: 4%;
+  }
+}
+
 @media (max-width: 768px) {
   .intro__title {
     width: 92%;
-    font-weight: 900;
     font-size: 32px;
     line-height: 1.09;
-    margin-left: 4%;
   }
 }

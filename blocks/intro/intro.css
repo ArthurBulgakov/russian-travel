@@ -3,3 +3,9 @@
   flex-direction: column;
   margin: 90px auto 0 auto;
 }
+
+@media (max-width: 767px) {
+  .intro {
+    margin-top: 60px;
+  }
+}
