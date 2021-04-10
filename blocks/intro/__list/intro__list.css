@@ -11,7 +11,7 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .intro__list {
     margin-bottom: 60px;
     margin-top: 0;

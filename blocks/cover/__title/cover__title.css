@@ -8,7 +8,7 @@
   margin-top: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .cover__title {
     width: 250px;
     font-size: 32px;
