@@ -13,7 +13,7 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .intro__title {
     width: 92%;
     font-size: 32px;
